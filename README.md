@@ -61,11 +61,9 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 Feel free to reach out! I'd love to collaborate on interesting projects.
 
-<!-- Uncomment and add your social links:
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-handle)
-- [Personal Website](https://yourwebsite.com)
--->
+- **LinkedIn:** [linkedin.com/in/leonhail-paypa-97a95918b](https://www.linkedin.com/in/leonhail-paypa-97a95918b/)
+- **Email:** leonhaipaypa27@gmail.com
+- **Mobile:** +63 9564095011
 
 ---
 
