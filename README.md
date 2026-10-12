@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=leonhail-nell&label=Profile%20views&color=0e75b6&style=flat" alt="leonhail-nell" />
-
 ## 👨‍💻 About Me
 
 Welcome to my GitHub profile! I'm passionate about building innovative solutions with modern technologies.
